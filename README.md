@@ -44,7 +44,7 @@
 
 ## 📬 联系我
 
-* ✉️ 邮箱（可选）
+* ✉️ 邮箱 zhangwei4372@outlook.com
 * 🌐 [我的博客](https://zhangwei43721.github.io)
 * 💼 正在寻找实习 / 合作机会，欢迎联系！
 
